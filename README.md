@@ -4,7 +4,7 @@
 #
 2. What has been added is that the modified app can detect an attached camera (other than webcam) using 'cam_check.py' and can start taking pictures at regular intervals or whenever you demand using 'check_camout.py' to process it and determine the pin condition (high or low), compare it with the given input and publish the results in real time.
 # 
-3. The modified app can now output (in theory) the physical condition of braille pins in real time, the user has been given the option to turn visual verfication on or off.
+3. The modified app can now output (in theory) the physical condition of braille pins in real time, the user has been given the option to turn visual verification ON or OFF.
 # 
 4. Different colour schemes have been added in GUI to indicate different cases like: blue when actually pin is high but input was low; green when both the input and  outputs are the same etc
 # 
