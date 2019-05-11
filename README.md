@@ -1,6 +1,6 @@
 # TacRead-Module-Testing-Application
-
-#When you run the modified module testing application 'RBD_modified.py' you can clearly see the added features. The original 'RB2.py' is also available in the 'RBD_test_code.zip' for comparison.
+#  
+# When you run the modified module testing application 'RBD_modified.py' you can clearly see the added features. The original 'RB2.py' is also available in the 'RBD_test_code.zip' for comparison.
 # What has been added is that the modified app can detect an attached camera (other than webcam) using 'cam_check.py' and can start taking pictures at regular intervals or whenever you demand using 'check_camout.py' to process it to determine the pin condition (high or low).
 # The modified app can now output (in theory) the physical condition of braille pins in real time.
 # Different colour schemes have been added in GUI to indicaate different cases like: blue when actually pin is high but input was low; green when both the input and  outputs are the same etc
