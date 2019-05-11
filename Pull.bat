@@ -1,0 +1,1 @@
+git pull https://affrbcdevice@bitbucket.org/rbd_pms_iiitd/module_testing.git master
